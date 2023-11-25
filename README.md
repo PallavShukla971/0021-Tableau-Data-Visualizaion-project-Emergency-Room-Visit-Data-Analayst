@@ -1,5 +1,10 @@
 # 021-Tableau-Data-Visualizaion-project-Emergency-Room-Visit-Data-Analayst
-https://public.tableau.com/app/profile/pallav.shukla
-Please find the visualisation above, you can download and practice as well.
+Hey Everyine please feel free to use this visualisation, for sheet please message me on linkedin will be able to provide the source code as well
 
-Hey Everyone this is the Repository for Emergency room visit, for visualisation sheets kindly comment or message me on linkedin so will be able to provide it.
+https://public.tableau.com/app/profile/pallav.shukla
+
+please check the dashboard from the above link
+
+The exact particular one is listed below:
+
+https://public.tableau.com/views/Emergency_room/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
